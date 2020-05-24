@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Check Live Demo: https://react-weatherforecastapp.herokuapp.com/
 
+Screenshots:
+![image](https://user-images.githubusercontent.com/52862817/82745822-9291d300-9d56-11ea-900f-201bdf04e5ce.png)
+
+![image](https://user-images.githubusercontent.com/52862817/82745836-b6551900-9d56-11ea-9af1-efc1e6d6b589.png)
+
+
 In the project directory, you can run:
 
 ### `npm start`
